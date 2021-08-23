@@ -1,0 +1,8 @@
+{
+    "name": "cctheme",
+    "version": "1.0",
+    "description": "CarlosCorp Theme",
+    "author": "CarlosCorp Developers",
+    "url": "https://www.carloscorp.com/",
+    "supports": ["5.0", "5.1"]
+}
